@@ -41,10 +41,6 @@ The `ESP32Cam.py` Python script, located in the `FaceRecognition_Code_AttendRx` 
    - It processes the captured images using face recognition algorithms to identify students' faces.
    - The script interacts with the AttendRx system to manage attendance based on recognized faces.
 
- **Block Diagram**
-
-    ![image](https://github.com/onkar69483/AttendRx-Face-Recognition-Attendance-System/assets/61963755/b668ed57-8b8b-4dff-a37b-1783d611961e)
-
 
 
 ## Project Impact
